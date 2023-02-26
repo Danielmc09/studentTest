@@ -40,7 +40,7 @@ THIRD_APPS = [
 ]
 
 LOCAL_APPS = [
-
+    'studentTest',
 ]
 
 INSTALLED_APPS = THIRD_APPS + LOCAL_APPS
