@@ -100,7 +100,7 @@ the first command runs the Tests declared in the tests file, the second command 
 ```bash
 the postman collection has an example with a user already created in the database and some questions
 
-<a href="https://www.postman.com/restless-comet-941245/workspace/studenttest/request/11211559-09a42840-7a14-44be-8a05-9253698f9602">https://www.postman.com/restless-comet-941245/workspace/studenttest/request/11211559-09a42840-7a14-44be-8a05-9253698f9602</a>
+https://www.postman.com/restless-comet-941245/workspace/studenttest/request/11211559-09a42840-7a14-44be-8a05-9253698f9602
 
 ```
 
